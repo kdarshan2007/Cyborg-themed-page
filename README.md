@@ -1,10 +1,12 @@
 # Techfest 2026 · Cyborg Landing Page
 
+#Links:
+Demo Link: https://kdarshan2007.github.io/Cyborg-themed-page/
+Repo Link: https://github.com/kdarshan2007/Cyborg-themed-page
+
 A futuristic, single-page landing page concept for **Techfest 2026** at IIT Bombay. It uses a dark interface with orange and teal accents and an animated cybernetic-eye illustration for a technology-focused look.
 
 > **Note:** This is an unofficial frontend project, not an event registration system.
-
-Live demo: https://kdarshan2007.github.io/Cyborg-themed-page/
 
 ---
 
